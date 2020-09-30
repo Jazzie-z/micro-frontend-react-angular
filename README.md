@@ -3,7 +3,7 @@
 A sample application using both react and angular to interact with each other
 
 ## Screenshots
-<img src="snapshot/snapshot.png" alt="snapshot" width="800"/>
+<img src="snapshot/snapshot.PNG" alt="snapshot" width="800"/>
 
 #### Install dependencies
 ```bash
